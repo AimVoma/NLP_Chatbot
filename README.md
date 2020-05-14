@@ -10,6 +10,9 @@ main_bot -- (Telegram Bot Handler Logic)<br/>
 dialogue_manager -- (Thread Ranking , Chatbot's Dialogue Manager(requests-responses))<br/>
 utils -- (Helping Functions) <br/>
 
+### Tech
+● AWS, Docker, Sklearn, Gensim, Word Embeddings, Chatterbot, Telegram API
+
 ### Preview
 https://imgur.com/a/LQOxJ1F
 
